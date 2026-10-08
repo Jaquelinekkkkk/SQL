@@ -6,4 +6,22 @@
   "telefone": "47988808765",
   "carteira": "123456789000",
   "cpf": "08796594333"
+},
+{
+  "_id": {
+    "$oid": "6ac82847bde837750f6409fd"
+  },
+  "nome": "Roberto Alencar",
+  "carteira": "55544433322",
+  "cpf": "12345678909",
+  "telefone": "(48) 98888-5555"
+},
+{
+  "_id": {
+    "$oid": "6ac82847bde837750f6409fe"
+  },
+  "nome": "Juliana Mendes",
+  "carteira": "11122233344",
+  "cpf": "09878476322",
+  "telefone": "(47) 98765-4321"
 }]

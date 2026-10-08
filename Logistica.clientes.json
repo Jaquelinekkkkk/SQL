@@ -5,4 +5,28 @@
   "name": "Nome do Cliente",
   "telefone": "1299999999",
   "cpf": "12345678901"
+},
+{
+  "_id": {
+    "$oid": "6ac82934bde837750f640a04"
+  },
+  "name": "Carlos Eduardo Silva",
+  "telefone": "47991234567",
+  "cpf": "88856849801"
+},
+{
+  "_id": {
+    "$oid": "6ac82934bde837750f640a05"
+  },
+  "name": "Ana Carolina Santos",
+  "telefone": "48998887766",
+  "cpf": "98765432100"
+},
+{
+  "_id": {
+    "$oid": "6ac82934bde837750f640a06"
+  },
+  "name": "Marcos Rodrigo Momo",
+  "telefone": "4733180300",
+  "cpf": "11122233344"
 }]
