@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6ac81c351fee9d6d51ea6246"
+  },
+  "origem": {
+    "endereco": "Rua XV de Novembro, Centro, Blumenau - SC",
+    "coordenadas": [
+      -48.9506,
+      -26.9328
+    ]
+  },
+  "destino": {
+    "endereco": "Rua Bahia, Do Salto, Blumenau - SC",
+    "coordenadas": [
+      -49,
+      -26.9
+    ]
+  },
+  "paradas": [
+    {
+      "endereco": "Parada 1",
+      "coordenadas": [
+        -48.987,
+        -26.92
+      ]
+    }
+  ],
+  "entregas": [
+    1001,
+    1002
+  ]
+}]

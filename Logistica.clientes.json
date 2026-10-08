@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "6ac811f11fee9d6d51ea6242"
+  },
+  "name": "Nome do Cliente",
+  "telefone": "1299999999",
+  "cpf": "12345678901"
+}]
